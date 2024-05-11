@@ -1,93 +1,19 @@
 ![logo](static-files/my-bbs-logo.png)
 
-**坚持不易，各位朋友如果觉得项目还不错的话可以给项目一个 star 吧，也是对我一直更新代码的一种鼓励啦，谢谢各位的支持。**
+在一个神秘的世界中，宵宫、玛露希尔、东山小红、阿尔图罗、川井璃夏和维什戴尔等来自不同领域的勇士们相遇了。他们被命运之手引导，踏上了一场跨越欧陆风云4中的大明以及其他领域的奇幻冒险之旅。
 
-My BBS 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 论坛系统，页面美观、功能齐全、部署简单及完善的代码，一定会给学习者和使用者带来极大的帮助。
+故事开始于玛露希尔的森林深处，一座神秘的传送门出现了，将来自不同领域的勇士们聚集在了一起。他们发现自己被一股神秘力量所联系，共同面对着一场来自未知的威胁。
 
-当前分支的 Spring Boot 版本为 2.4.0，想要学习和使用其它版本可以直接点击下方的分支名称跳转至对应的仓库分支中。
+宵宫，来自玛露希尔的魔法师，拥有强大的元素魔法，能够操控火焰和冰霜；玛露希尔则是一位优雅的精灵战士，以敏捷和精准的攻击闻名；东山小红是一名天生的猎手，精通各种武器和陷阱；阿尔图罗则是一位来自欧陆风云4的神圣骑士，信奉正义与勇气；川井璃夏是一位拥有神秘力量的法师，能够召唤出闪电和风暴；而维什戴尔则是一名来自大明的武术大师，精通各种武技。
 
-| 分支名称                                                    | Spring Boot Version |
-| ------------------------------------------------------------ | ------------------- |
-| [spring-boot-3.x](https://github.com/ZHENFENG13/My-BBS/tree/spring-boot-3.x) | 3.1.0       |
-| [main](https://github.com/ZHENFENG13/My-BBS)            | 2.4.0               |
+这群勇士们被命运所联结，他们的使命是寻找并摧毁一股黑暗势力，这股势力威胁着所有领域的和平与安宁。于是，他们踏上了穿越不同领域的旅程，经历了种种挑战与考验。
 
-- **一个以 Spring Boot 技术栈实现的 BBS 论坛实战项目；**
-- **你也可以把它作为 Spring Boot 技术栈的学习项目，My BBS 足够符合要求，且代码和功能完备；**
-- **技术栈新颖且知识点丰富，学习后可以提升大家对于知识的理解和掌握，对于提升你的市场竞争力有一定的帮助。**
-- **My BBS 还有一些不完善的地方，鄙人才疏学浅，望见谅；**
-- **有任何问题都可以反馈给我，我会尽量完善该项目。**
+他们先是来到了大明，一片繁荣而神秘的土地。在这里，他们面对着来自黑暗势力的邪恶生物和黑暗法师的袭击，与大明的勇士们并肩作战，保卫这片土地的安全。
 
-> 更多 Spring Boot 实战项目可以关注十三的另一个代码仓库 [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects)，该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的前后端分离实践项目等，后续会根据大家的反馈继续增加一些实战项目源码，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。
+接着，他们来到了玛露希尔的森林，与被黑暗势力操控的巨型生物展开了激战。玛露希尔的精灵战士玛露希尔以其优雅的剑技领导着队伍，与黑暗势力的生物进行了殊死搏斗。
 
-## 开发文档
+然后，他们来到了欧陆风云4的领域，面对着黑暗势力的魔法军团。阿尔图罗带领着他的骑士团与黑暗法师的军队展开了激烈的战斗，以保卫他们的家园。
 
-### 《SpringBoot + Mybatis + Thymeleaf 开发 BBS 论坛项目》(支付减免优惠券码 jRPuZHPz )
+在一系列的冒险和战斗中，这群勇士们结成了深厚的友谊，相互信任、相互支持。最终，他们联手击败了黑暗势力的首领，拯救了所有领域的和平与安宁。
 
-[![lesson-11](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/lesson-11.png)](https://www.shiyanlou.com/courses/4830)
-
-- [**第01课：Spring Boot 技术栈详解**](https://www.shiyanlou.com/courses/4830)
-- [第02课：快速构建 Spring Boot 应用](https://www.shiyanlou.com/courses/4830)
-- [第03课：Spring Boot 项目开发之Web项目开发讲解](https://www.shiyanlou.com/courses/4830)
-- [第04课：Spring Boot 整合 Thymeleaf 模板引擎](https://www.shiyanlou.com/courses/4830)
-- [第05课：Thymeleaf 语法详解](https://www.shiyanlou.com/courses/4830)
-- [第06课：Spring Boot 自动配置数据源及操作数据库](https://www.shiyanlou.com/courses/4830)
-- [第07课：Spring Boot 整合 MyBatis 操作数据库](https://www.shiyanlou.com/courses/4830)
-- [第08课：分页功能的设计与实现](https://www.shiyanlou.com/courses/4830)
-- [第09课：BBS论坛项目开发之验证码功能](https://www.shiyanlou.com/courses/4830)
-- [第10课：BBS论坛项目开发之前端技术选型及源码目录详解](https://www.shiyanlou.com/courses/4830)
-- [第11课：BBS论坛项目开发之用户注册模块实现](https://www.shiyanlou.com/courses/4830)
-- [第12课：BBS论坛项目开发之用户登录模块实现](https://www.shiyanlou.com/courses/4830)
-- [第13课：BBS论坛项目开发之用户登录拦截器](https://www.shiyanlou.com/courses/4830)
-- [第14课：BBS论坛项目实战之处理文件上传及路径回显](https://www.shiyanlou.com/courses/4830)
-- [第15课：BBS论坛项目实战之个人中心页面制作](https://www.shiyanlou.com/courses/4830)
-- [第16课：富文本编辑器 wangEditor 整合](https://www.shiyanlou.com/courses/4830)
-- [第17课：BBS论坛项目实战之论坛首页开发](https://www.shiyanlou.com/courses/4830)
-- [第18课：BBS论坛项目实战之帖子发布功能开发](https://www.shiyanlou.com/courses/4830)
-- [第19课：BBS论坛项目实战之帖子详情和修改功能开发](https://www.shiyanlou.com/courses/4830)
-- [第20课：BBS论坛项目实战之评论功能开发](https://www.shiyanlou.com/courses/4830)
-
-## 联系作者
-
-> 大家有任何问题或者建议都可以在 [issues](https://github.com/ZHENFENG13/My-BBS/issues) 中反馈给我，我会慢慢完善这个项目。
-
-- 我的邮箱：2449207463@qq.com
-- QQ技术交流群：719099151 796794009
-
-> My-BBS 在 GitHub 和国内的码云都创建了代码仓库，如果有人访问 GitHub 比较慢的话，建议在 Gitee 上查看该项目，两个仓库会保持同步更新。
-
-- [My-BBS in GitHub](https://github.com/ZHENFENG13/My-BBS)
-- [My-BBS in Gitee](https://gitee.com/zhenfeng13/My-BBS)
-
-## 效果预览
-
-- 首页
-
-  ![首页](static-files/首页.png)
-
-- 登录
-
-  ![登录](static-files/登录.png)
-
-- 用户中心
-
-  ![用户中心](static-files/用户中心.png)
-  
-- 用户动态
-
-  ![用户动态](static-files/用户动态.png)
-
-- 发布帖子
-
-  ![发布帖子](static-files/发布帖子.png)
-
-- 帖子详情
-
-  ![帖子详情](static-files/帖子详情.png)
-
-## 感谢
-
-- [spring-projects](https://github.com/spring-projects/spring-boot)
-- [pandao](https://github.com/pandao/editor.md)
-- [fly](https://github.com/layui/fly)
-- [layui](https://www.layui.com/)
-
+在这段冒险的旅程中，宵宫、玛露希尔、东山小红、阿尔图罗、川井璃夏和维什戴尔等勇士们展现了无畏的勇气和坚韧不拔的意志，成为了各自领域的英雄，他们的传说将永远被铭记于世。
