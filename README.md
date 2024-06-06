@@ -17,3 +17,34 @@
 在一系列的冒险和战斗中，这群勇士们结成了深厚的友谊，相互信任、相互支持。最终，他们联手击败了黑暗势力的首领，拯救了所有领域的和平与安宁。
 
 在这段冒险的旅程中，宵宫、玛露希尔、东山小红、阿尔图罗、川井璃夏和维什戴尔等勇士们展现了无畏的勇气和坚韧不拔的意志，成为了各自领域的英雄，他们的传说将永远被铭记于世。
+
+| 模块名称 | 模块负责 |
+|------|------|
+|      |      |
+
+数据库   mengnankkkk
+
+前端   Margit-Arachne
+
+blog   mengnankkkk
+
+安全   mengnankkk
+
+用户管理模块   Margit-Arachne
+
+编码crypot模块   Margit-Arachne
+
+帖子post模块   yaoplayer
+
+帖子管理模块   yaoplayer
+
+内容支持模块   yaoplayer
+
+github管理模块    mengnankkkk
+
+创意模块   yaoplayer
+
+
+
+
+
